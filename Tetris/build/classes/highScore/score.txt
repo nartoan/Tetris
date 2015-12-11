@@ -1,0 +1,5 @@
+Toan:140
+Nam:10
+Nhac:10
+Van:10
+Thuy:10
